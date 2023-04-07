@@ -9,4 +9,3 @@ Mutations in the RNA/DNA-binding proteins FUS and TDP-43 cause amyotrophic later
 # Folder organization
 Scripts used for analyses (DESeq2, GSEA and Seurat) are located in 'Analyses'.  
 Scripts used for data visualization are located in 'Visualization'.  
-All required data files for importing/sourcing are located in 'Data'.
