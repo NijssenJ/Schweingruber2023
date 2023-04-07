@@ -1,6 +1,6 @@
 # Single cell RNA sequencing in isogenic FUS and TARDBP mutant ALS lines reveals early mitochondrial dysfunction as a common pathway in motor neurons
 
-Schweingruber C, Nijssen J, Mechtersheimer J, Reber S, Keuper M, Mei I, Benitez JA, O’Brien N, Jastroch M, Ruepp MD, Hedlund E.
+Schweingruber C, Nijssen J, Mechtersheimer J, Reber S, Keuper M, Mei I, Benitez JA, O’Brien N, Jastroch M, Ruepp MD, Hedlund E.  
 Link to manuscript: https://www.biorxiv.org/content/10.1101/2023.03.16.531876v2
 
 # Abstract
