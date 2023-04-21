@@ -11,10 +11,10 @@ Scripts used for analyses (DESeq2, GSEA and Seurat) are located in 'Analyses'.
 Scripts used for data visualization are located in 'Visualization'.  
 
 # Data Analysis
-Single cell RNA-Seq (this repository)
+* Single cell RNA-Seq (this repository)
 
 Following analyses are located at: https://github.com/schwi24/Schweingruber_et_al_2023
-Mitochondrial motility analysis
-Meta-analysis of clinical features of FUS-ALS cases
-Respiratory chain expression plots
+* Mitochondrial motility analysis
+* Meta-analysis of clinical features of FUS-ALS cases
+* Respiratory chain expression plots
 
